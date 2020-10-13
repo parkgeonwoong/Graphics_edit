@@ -7,7 +7,8 @@
 3. 그림을 그리는 MyCanvas.java
 4. Test2(main).java 에서 작동을 하게 됨.
 
-4-1. 도형을 복사한다. copy
-4-2. 도형을 붙여넣은다. paste
++ 4-1. 도형을 복사한다. copy
++ 4-2. 도형을 붙여넣은다. paste
++ 4-3. 도형에 색깔을 부여함
 
 #Graphics_edit_Diagram을 보며 구조화
