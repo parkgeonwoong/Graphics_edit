@@ -1,6 +1,6 @@
 # Graphics_edit
 
-#University_Project
++University_Project
 
 1. 모양을 잡는 Shape.java
 2. 도형인 Rect.java, Circle.java
@@ -11,4 +11,6 @@
 + 4-2. 도형을 붙여넣은다. paste
 + 4-3. 도형에 색깔을 부여함
 
-#Graphics_edit_Diagram을 보며 구조화
++ Graphics_edit_Diagram을 보며 구조화
+
+<img src="https://user-images.githubusercontent.com/65653053/104176600-df8ffa00-544a-11eb-864d-597e4f48b13a.png" width="50%"></img>
