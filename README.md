@@ -1,7 +1,8 @@
 # Graphics_edit
 
-+University_Project
++ University_Project
 
+### <Structure>
 1. 모양을 잡는 Shape.java
 2. 도형인 Rect.java, Circle.java
 3. 그림을 그리는 MyCanvas.java
